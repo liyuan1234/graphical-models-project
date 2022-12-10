@@ -1,5 +1,5 @@
 # graphical-models-project
 
-plot_ecog_signals loads and processes data
+plot_ecog_signals.m loads and processes data
 
-expectation_feature computes expectation over features
+expectation_feature.m computes expectation over features
